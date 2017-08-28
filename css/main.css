@@ -1,3 +1,11 @@
-body {
-  background-color: #fff;
+header {
+  background-position: cover;
+  background-attachment: fixed;
+  background-image: url("../img/back.png");
+  background-size: cover;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  position: relative;
+  width: 100%;
+  height: 100vh;
 }
